@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mubashircheema
+- 👋 Hi, I’m Mubashir Ahmad
 - 👀 I’m interested in Data Science, Machine learning, artificial intelligence, wordpress website designing and little interest in graphic design
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on 

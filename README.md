@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mubashir Ahmad
-- 👀 I’m interested in Data Science, Machine learning, artificial intelligence, wordpress website designing and little interest in graphic design
+- 👀 I’m interested in full stack development 
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me  mubashirsaab608@gmail.com
